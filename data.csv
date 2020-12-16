@@ -1,0 +1,446 @@
+,identifier,genre,genreId
+0,com.ulkagames.callbridge,Card,GAME_CARD
+1,com.tbegames.and.poker_games_texas,Card,GAME_CARD
+2,com.teenpatti.hd.gold,Casino,GAME_CASINO
+3,com.jungleegames.rummy,Card,GAME_CARD
+4,air.com.ace2three.mobile,Card,GAME_CARD
+5,com.abzorbagames.poker,Casino,GAME_CASINO
+6,air.ru.crazypanda.wpcm,Card,GAME_CARD
+7,com.zynga.livepoker,Casino,GAME_CASINO
+8,com.playtika.wsop.gp,Card,GAME_CARD
+9,eu.ganymede.pokerhd,Card,GAME_CARD
+10,com.poker.texaspoker.texasholdem,Card,GAME_CARD
+11,com.games24x7.ultimaterummy.playstore,Card,GAME_CARD
+12,betting.tips.probet,Sports,SPORTS
+13,org.betup,Sports,GAME_SPORTS
+14,com.betmines,Sports,SPORTS
+15,com.cardgames.andar.bahar,Card,GAME_CARD
+16,com.bettingpros.bettingpros,Sports,SPORTS
+17,com.olbg.tipsandroid2,Sports,SPORTS
+18,com.kingpin,Sports,SPORTS
+19,com.akilliuygulamalar.expertbettingtips,Sports,SPORTS
+20,com.hiba.megatipsbet,Sports,SPORTS
+21,com.kevoya.soccerbet,Sports,SPORTS
+22,com.scores365,Sports,SPORTS
+23,com.betacular.app.betfairviewer2,Sports,SPORTS
+24,htft.apcdi,Sports,SPORTS
+25,com.whatsapp.w4b,Communication,COMMUNICATION
+26,com.google.android.apps.vega,Business,BUSINESS
+27,com.norbsoft.oriflame.businessapp,Business,BUSINESS
+28,com.phonepe.app.business,Finance,FINANCE
+29,com.paytm.business,Finance,FINANCE
+30,com.google.android.apps.nbu.paisa.merchant,Finance,FINANCE
+31,com.bharatpe.app,Finance,FINANCE
+32,px.indianoil.in,Business,BUSINESS
+33,com.paypal.merchant.client,Business,BUSINESS
+34,com.comuto,Travel & Local,TRAVEL_AND_LOCAL
+35,com.airbnb.android,Travel & Local,TRAVEL_AND_LOCAL
+36,com.ouibus.mobile,Travel & Local,TRAVEL_AND_LOCAL
+37,com.makemytrip,Travel & Local,TRAVEL_AND_LOCAL
+38,com.tripadvisor.tripadvisor,Travel & Local,TRAVEL_AND_LOCAL
+39,com.ixigo,Travel & Local,TRAVEL_AND_LOCAL
+40,com.goibibo,Travel & Local,TRAVEL_AND_LOCAL
+41,com.ixigo.train.ixitrain,Travel & Local,TRAVEL_AND_LOCAL
+42,com.easemytrip.android,Travel & Local,TRAVEL_AND_LOCAL
+43,com.beatravelbuddy.travelbuddy,Travel & Local,TRAVEL_AND_LOCAL
+44,com.booking,Travel & Local,TRAVEL_AND_LOCAL
+45,com.cleartrip.android,Travel & Local,TRAVEL_AND_LOCAL
+46,in.goindigo.android,Travel & Local,TRAVEL_AND_LOCAL
+47,in.redbus.android,Travel & Local,TRAVEL_AND_LOCAL
+48,com.wego.android,Travel & Local,TRAVEL_AND_LOCAL
+49,com.expedia.bookings,Travel & Local,TRAVEL_AND_LOCAL
+50,com.tripoto,Travel & Local,TRAVEL_AND_LOCAL
+51,com.thrillophilia,Travel & Local,TRAVEL_AND_LOCAL
+52,com.yatra.base,Travel & Local,TRAVEL_AND_LOCAL
+53,app.via,Travel & Local,TRAVEL_AND_LOCAL
+54,com.ezy.goair,Travel & Local,TRAVEL_AND_LOCAL
+55,com.vl.spicejet,Travel & Local,TRAVEL_AND_LOCAL
+56,com.vistara.tsal,Travel & Local,TRAVEL_AND_LOCAL
+57,com.allfoodapp.foodmania,Food & Drink,FOOD_AND_DRINK
+58,in.swiggy.android,Food & Drink,FOOD_AND_DRINK
+59,com.application.zomato,Food & Drink,FOOD_AND_DRINK
+60,com.ubercab.eats,Food & Drink,FOOD_AND_DRINK
+61,com.dunzo.user,Shopping,SHOPPING
+62,com.poncho,Food & Drink,FOOD_AND_DRINK
+63,com.pesitonew.india,Food & Drink,FOOD_AND_DRINK
+64,com.yum.kfc,Food & Drink,FOOD_AND_DRINK
+65,com.Dominos,Food & Drink,FOOD_AND_DRINK
+66,com.homefoodi.user,Food & Drink,FOOD_AND_DRINK
+67,com.il.mcdelivery,Food & Drink,FOOD_AND_DRINK
+68,com.india.foodpanda.android,Food & Drink,FOOD_AND_DRINK
+69,com.freshmenu,Food & Drink,FOOD_AND_DRINK
+70,com.deliveroo.orderapp,Food & Drink,FOOD_AND_DRINK
+71,com.digilocker.android,Productivity,PRODUCTIVITY
+72,com.google.android.apps.docs.editors.docs,Productivity,PRODUCTIVITY
+73,com.microsoft.office.word,Productivity,PRODUCTIVITY
+74,com.skydot.docxreader.docx.docxviewer.document.doc.office.viewer.reader.word,Tools,TOOLS
+75,cn.wps.moffice_eng,Productivity,PRODUCTIVITY
+76,com.officedocument.word.docx.document.viewer,Productivity,PRODUCTIVITY
+77,com.docstorer.app,Tools,TOOLS
+78,com.document.manager.filescanner,Business,BUSINESS
+79,com.dropbox.android,Productivity,PRODUCTIVITY
+80,com.microsoft.skydrive,Productivity,PRODUCTIVITY
+81,com.microsoft.office.outlook,Productivity,PRODUCTIVITY
+82,com.microsoft.teams,Business,BUSINESS
+83,com.microsoft.office.excel,Productivity,PRODUCTIVITY
+84,com.adobe.reader,Productivity,PRODUCTIVITY
+85,com.microsoft.office.officehubrow,Productivity,PRODUCTIVITY
+86,com.adobe.reader,Productivity,PRODUCTIVITY
+87,com.cisco.webex.meetings,Business,BUSINESS
+88,us.zoom.videomeetings,Business,BUSINESS
+89,io.chingari.app,Social,SOCIAL
+90,com.graymatrix.did,Entertainment,ENTERTAINMENT
+91,ahaflix.tv,Entertainment,ENTERTAINMENT
+92,com.jio.media.ondemand,Entertainment,ENTERTAINMENT
+93,com.sonyliv,Entertainment,ENTERTAINMENT
+94,tv.accedo.airtel.wynk,Entertainment,ENTERTAINMENT
+95,com.ryzmedia.tatasky,Entertainment,ENTERTAINMENT
+96,in.startv.hotstar,Entertainment,ENTERTAINMENT
+97,com.ideacellular.digitalvideo,Entertainment,ENTERTAINMENT
+98,com.amazon.avod.thirdpartyclient,Entertainment,ENTERTAINMENT
+99,com.netflix.mediaclient,Entertainment,ENTERTAINMENT
+100,com.hungama.movies,Entertainment,ENTERTAINMENT
+101,com.erosnow,Entertainment,ENTERTAINMENT
+102,com.funnypuri.client,Entertainment,ENTERTAINMENT
+103,com.vuclip.viu,Entertainment,ENTERTAINMENT
+104,com.gaana,Music & Audio,MUSIC_AND_AUDIO
+105,com.hungama.myplay.activity,Music & Audio,MUSIC_AND_AUDIO
+106,com.bsbportal.music,Music & Audio,MUSIC_AND_AUDIO
+107,com.soundcloud.android,Music & Audio,MUSIC_AND_AUDIO
+108,com.spotify.music,Music & Audio,MUSIC_AND_AUDIO
+109,com.amazon.mp3,Music & Audio,MUSIC_AND_AUDIO
+110,com.apple.android.music,Music & Audio,MUSIC_AND_AUDIO
+111,com.atpc,Music & Audio,MUSIC_AND_AUDIO
+112,com.shazam.android,Music & Audio,MUSIC_AND_AUDIO
+113,com.udicorn.proxybrowser.unblockwebsites,Tools,TOOLS
+114,free.vpn.unblock.proxy.turbovpn,Tools,TOOLS
+115,com.udicorn.proxy,Tools,TOOLS
+116,free.vpn.unblock.proxy.vpn.master.pro,Tools,TOOLS
+117,com.getfilefrom.browserproxy,Communication,COMMUNICATION
+118,free.vpn.unblock.fast.proxy.vpn.master.pro.lite,Tools,TOOLS
+119,com.fast.free.unblock.thunder.vpn,Tools,TOOLS
+120,net.upx.proxy.browser,Tools,TOOLS
+121,org.hola,Tools,TOOLS
+122,com.imht.super.ultimate.proxy.browser,Tools,TOOLS
+123,com.app.any.vpn,Tools,TOOLS
+124,com.free.unlimited.vpn.proxy,Tools,TOOLS
+125,hotspotshield.android.vpn,Tools,TOOLS
+126,com.free.vpn.turbo.fast.secure.govpn,Tools,TOOLS
+127,com.free.vpn.super.hotspot.open,Tools,TOOLS
+128,com.supervpn.vpn.free.proxy,Productivity,PRODUCTIVITY
+129,com.northghost.touchvpn,Tools,TOOLS
+130,acr.browser.proxybrowser_globalappstudio,Tools,TOOLS
+131,com.icecoldapps.proxyserver,Tools,TOOLS
+132,com.gorillasoftware.everyproxy,Tools,TOOLS
+133,proxy.browser.unblock.sites.proxybrowser.unblocksites,Tools,TOOLS
+134,com.master.unblockweb,Tools,TOOLS
+135,org.torproject.torbrowser,Communication,COMMUNICATION
+136,org.torproject.torbrowser_alpha,Communication,COMMUNICATION
+137,org.torproject.android,Communication,COMMUNICATION
+138,com.nigamhub.darkhub,News & Magazines,NEWS_AND_MAGAZINES
+139,com.darkweb.genesissearchengine,Books & Reference,BOOKS_AND_REFERENCE
+140,com.darkweb.onionbrowser,Tools,TOOLS
+141,io.kodular.seluxstudio.vermabook,News & Magazines,NEWS_AND_MAGAZINES
+142,com.hrstudio.hrultimatevpn,Tools,TOOLS
+143,com.onionsearchengine.onionsearchengine,Books & Reference,BOOKS_AND_REFERENCE
+144,smartsolutions.adblocker.browser,Communication,COMMUNICATION
+145,com.torvpn.free,Tools,TOOLS
+146,pan.alexander.tordnscrypt.gp,Tools,TOOLS
+147,com.cyber_genius.cyber_tor,Tools,TOOLS
+148,com.inetric.orxy,Communication,COMMUNICATION
+149,com.basusta.deepweb,Education,EDUCATION
+150,com.nigamhub.tor,Communication,COMMUNICATION
+151,com.tor.browser.vpn.unlimited.free,Communication,COMMUNICATION
+152,org.openobservatory.ooniprobe,Tools,TOOLS
+153,com.torit.tor,Business,BUSINESS
+154,com.nigamhub.fasttor,News & Magazines,NEWS_AND_MAGAZINES
+155,net.pryvate.onionbrowser,Tools,TOOLS
+156,com.inetric.anonify,Communication,COMMUNICATION
+157,com.looklike.deepweb,Education,EDUCATION
+158,com.anydesk.anydeskandroid,Business,BUSINESS
+159,com.teamviewer.teamviewer.market.mobile,Productivity,PRODUCTIVITY
+160,com.screenconnect.androidclient,Communication,COMMUNICATION
+161,com.realvnc.viewer.android,Productivity,PRODUCTIVITY
+162,com.ticno.olymptrade,Business,BUSINESS
+163,com.movrithhelguk.broker,Finance,FINANCE
+164,in.upstox.pro,Finance,FINANCE
+165,com.msf.angelmobile,Finance,FINANCE
+166,abmm.heckyl.com,Finance,FINANCE
+167,com.snapwork.hdfcsec,Finance,FINANCE
+168,com.msf.kotak,Finance,FINANCE
+169,com.hdfcsec.hdfcsecproterminal,Finance,FINANCE
+170,com.tiim.goforexx24,Books & Reference,BOOKS_AND_REFERENCE
+171,com.xfr.xtrade,Finance,FINANCE
+172,com.git.flipmea.uaeexchange,Finance,FINANCE
+173,com.indiainfoline,Finance,FINANCE
+174,com.fusionmedia.investing,Finance,FINANCE
+175,com.icicisecurity,Finance,FINANCE
+176,com.zerodha.kite3,Finance,FINANCE
+177,com.smallcase.android,Finance,FINANCE
+178,com.zerodha.coin,Finance,FINANCE
+179,com.smartspends,Finance,FINANCE
+180,com.sbi.mf,Finance,FINANCE
+181,com.tatacapital.moneyfy,Finance,FINANCE
+182,com.yahoo.mobile.client.android.finance,Finance,FINANCE
+183,com.bloomberg.android.plus,News & Magazines,NEWS_AND_MAGAZINES
+184,com.cnbc.client,Finance,FINANCE
+185,com.ndtv.ndtvprofit,Finance,FINANCE
+186,com.businesstoday,News & Magazines,NEWS_AND_MAGAZINES
+187,com.et.reader.activities,News & Magazines,NEWS_AND_MAGAZINES
+188,com.divum.MoneyControl,Finance,FINANCE
+189,com.network18.cnbctv18,News & Magazines,NEWS_AND_MAGAZINES
+190,in.AajTak.headlines,News & Magazines,NEWS_AND_MAGAZINES
+191,com.ndtv.india,News & Magazines,NEWS_AND_MAGAZINES
+192,com.zeenews.hindinews,News & Magazines,NEWS_AND_MAGAZINES
+193,com.indiatoday.tv,News & Magazines,NEWS_AND_MAGAZINES
+194,com.indiatv.livetv,News & Magazines,NEWS_AND_MAGAZINES
+195,com.toi.reader.activities,News & Magazines,NEWS_AND_MAGAZINES
+196,com.ht.news,News & Magazines,NEWS_AND_MAGAZINES
+197,com.indianexpress.android,News & Magazines,NEWS_AND_MAGAZINES
+198,com.mobstac.thehindu,News & Magazines,NEWS_AND_MAGAZINES
+199,com.htmedia.mint,News & Magazines,NEWS_AND_MAGAZINES
+200,com.ft.news,News & Magazines,NEWS_AND_MAGAZINES
+201,com.thomsonreuters.reuters,News & Magazines,NEWS_AND_MAGAZINES
+202,com.cnn.mobile.android.phone,News & Magazines,NEWS_AND_MAGAZINES
+203,bbc.mobile.news.ww,News & Magazines,NEWS_AND_MAGAZINES
+204,net.aljazeera.english,News & Magazines,NEWS_AND_MAGAZINES
+205,com.bskyb.skynews.android,News & Magazines,NEWS_AND_MAGAZINES
+206,com.policybazaar,Finance,FINANCE
+207,com.paisabazaar,Finance,FINANCE
+208,in.bajajfinservmarkets.app,Finance,FINANCE
+209,com.bankbazaar.app&hl=en_IN,Finance,FINANCE
+210,com.mycash.moneytap.app,Finance,FINANCE
+211,com.dreamplug.androidapp,Lifestyle,LIFESTYLE
+212,com.kreditbee.android,Finance,FINANCE
+213,com.GotoCash,Finance,FINANCE
+214,com.micredit.in.gp,Finance,FINANCE
+215,com.kreditzy.android,Finance,FINANCE
+216,co.afg.rupie,Finance,FINANCE
+217,com.okcash.liufang,Finance,FINANCE
+218,com.jc.icredit,Finance,FINANCE
+219,in.cashmama.app,Finance,FINANCE
+220,com.fastbanking,Finance,FINANCE
+221,com.india.beautycash,Finance,FINANCE
+222,com.branch_international.branch.branch_demo_android,Finance,FINANCE
+223,com.naviapp,Finance,FINANCE
+224,com.earlysalary.android,Finance,FINANCE
+225,com.indiaBulls,Finance,FINANCE
+226,com.jc.icredit,Finance,FINANCE
+227,com.daamitt.walnut.app,Finance,FINANCE
+228,com.fundeasy.bankbalancecheck,Finance,FINANCE
+229,com.sbi.SBIFreedomPlus,Finance,FINANCE
+230,com.snapwork.hdfc,Finance,FINANCE
+231,com.csam.icici.bank.imobile,Finance,FINANCE
+232,com.axis.mobile,Finance,FINANCE
+233,com.dbs.in.digitalbank,Finance,FINANCE
+234,com.msf.kbank.mobile,Finance,FINANCE
+235,com.rblbank.mobank,Finance,FINANCE
+236,in.pnbindia.mpassbook,Finance,FINANCE
+237,com.infrasoft.uboi,Finance,FINANCE
+238,com.alb.mobilebanking,Finance,FINANCE
+239,com.mobile.syndicatepassbook,Finance,FINANCE
+240,com.boi.mpay,Finance,FINANCE
+241,com.canarabank.mobility,Finance,FINANCE
+242,com.ujjivanbank.mobilebanking,Finance,FINANCE
+243,com.fss.indus,Finance,FINANCE
+244,com.atomyes,Finance,FINANCE
+245,com.bsl.hyundai,Business,BUSINESS
+246,com.girnarsoft.cardekho,Auto & Vehicles,AUTO_AND_VEHICLES
+247,com.carwale,Auto & Vehicles,AUTO_AND_VEHICLES
+248,com.til.zigwheels,Auto & Vehicles,AUTO_AND_VEHICLES
+249,com.bikewale.app,Auto & Vehicles,AUTO_AND_VEHICLES
+250,com.girnarsoft.bikedekho,Auto & Vehicles,AUTO_AND_VEHICLES
+251,com.mgmotor.customerapp,Business,BUSINESS
+252,com.saicmotor.iov.india,Business,BUSINESS
+253,in.droom,Shopping,SHOPPING
+254,com.cartrade.car,Auto & Vehicles,AUTO_AND_VEHICLES
+255,com.urbanclap.urbanclap,House & Home,HOUSE_AND_HOME
+256,com.move.realtor,House & Home,HOUSE_AND_HOME
+257,com.timesgroup.magicbricks,Lifestyle,LIFESTYLE
+258,com.nnacres.app,Business,BUSINESS
+259,com.locon.housing,Business,BUSINESS
+260,com.makaan.seller,Business,BUSINESS
+261,com.nobroker.app,Lifestyle,LIFESTYLE
+262,com.project.vivareal,House & Home,HOUSE_AND_HOME
+263,com.asianpaints.dbu.digital.colourwithasianpaints,House & Home,HOUSE_AND_HOME
+264,com.cethar.dcs.duluxcolour,Lifestyle,LIFESTYLE
+265,com.uxarmy.nippon,Lifestyle,LIFESTYLE
+266,com.nerolac.colourmyspace,House & Home,HOUSE_AND_HOME
+267,com.commonfloor,Lifestyle,LIFESTYLE
+268,com.app.pepperfry,Shopping,SHOPPING
+269,com.evamall.evacustomer,Shopping,SHOPPING
+270,com.tul.tatacliq,Shopping,SHOPPING
+271,com.shopclues,Shopping,SHOPPING
+272,com.bewakoof.bewakoof,Shopping,SHOPPING
+273,com.fsn.nds,Shopping,SHOPPING
+274,com.fsn.nykaa,Shopping,SHOPPING
+275,com.applications.lifestyle,Shopping,SHOPPING
+276,com.applications.homecentre,Shopping,SHOPPING
+277,com.fabindia.shopping,Shopping,SHOPPING
+278,com.acko.android,Finance,FINANCE
+279,com.icicilombard.mcust,Finance,FINANCE
+280,com.pms.activity,Business,BUSINESS
+281,com.orientalinsurance,Finance,FINANCE
+282,com.star.customer_app,Business,BUSINESS
+283,com.maxbupa.healthapp,Health & Fitness,HEALTH_AND_FITNESS
+284,com.religarepartner,Finance,FINANCE
+285,io.cordova.myapp53513c,Business,BUSINESS
+286,com.godigit.digit,Business,BUSINESS
+287,com.iffcotokio.CustomerApp,Business,BUSINESS
+288,com.nia.customer,Business,BUSINESS
+289,com.lic.liccustomer,Finance,FINANCE
+290,com.ipru.iciciprulife.customer.release,Finance,FINANCE
+291,com.hdfcclife.activities,Finance,FINANCE
+292,com.lic.licpaydirect,Finance,FINANCE
+293,bajaj.customer.screens,Business,BUSINESS
+294,air.TataAIA.MasterApp.SecureLife,Finance,FINANCE
+295,com.idbifederal,Finance,FINANCE
+296,com.aviva.mobile,Finance,FINANCE
+297,com.svs.slic,Business,BUSINESS
+298,com.sbilife.project,Finance,FINANCE
+299,com.bsli.eapp,Business,BUSINESS
+300,com.adityabirlahealth.insurance,Health & Fitness,HEALTH_AND_FITNESS
+301,com.aranoah.healthkart.plus,Medical,MEDICAL
+302,com.phonegap.rxpal,Medical,MEDICAL
+303,com.medplus.mobile.android,Medical,MEDICAL
+304,com.NetmedsMarketplace.Netmeds,Medical,MEDICAL
+305,com.apollo.android,Medical,MEDICAL
+306,com.medlife.customer,Medical,MEDICAL
+307,com.practo.fabric,Medical,MEDICAL
+308,com.docsapp.patients,Medical,MEDICAL
+309,com.main.drinsta,Medical,MEDICAL
+310,com.practo.droid,Medical,MEDICAL
+311,com.tatahealth.tatadhp,Medical,MEDICAL
+312,com.apollo.patientapp,Medical,MEDICAL
+313,com.phonegap.rxpal,Medical,MEDICAL
+314,com.mfine,Medical,MEDICAL
+315,bajajfinserv.in.hrx.app,Health & Fitness,HEALTH_AND_FITNESS
+316,com.betaout.GOQii,Health & Fitness,HEALTH_AND_FITNESS
+317,com.pixelnx.sam.jobportal,Business,BUSINESS
+318,naukriApp.appModules.login,Business,BUSINESS
+319,com.monsterindia.seeker.views,Business,BUSINESS
+320,com.timesgroup.timesjobs,Business,BUSINESS
+321,com.freshersworld.jobs,Education,EDUCATION
+322,com.hirist.jobseeker,Business,BUSINESS
+323,com.net.shine,Business,BUSINESS
+324,com.indeed.android.jobsearch,Business,BUSINESS
+325,com.glassdoor.app,Business,BUSINESS
+326,com.apnatime,Business,BUSINESS
+327,com.workexjobapp,Business,BUSINESS
+328,in.workindia.nileshdungarwal.workindiaandroid,Business,BUSINESS
+329,com.naukriGulf.app,Business,BUSINESS
+330,in.gov.uidai.mAadhaarPlus,Tools,TOOLS
+331,qrscanner.barcodescanner.barcodereader.qrcodereader,Tools,TOOLS
+332,com.yablio.sendfilestotv,Tools,TOOLS
+333,com.gamma.bubblelevel,Tools,TOOLS
+334,com.piriform.ccleaner,Tools,TOOLS
+335,com.gamebasic.decibel,Tools,TOOLS
+336,com.vincentlee.compass,Tools,TOOLS
+337,com.ktwapps.digitalcompass,Tools,TOOLS
+338,com.staircase3.opensignal,Tools,TOOLS
+339,app.melon.icompass,Tools,TOOLS
+340,net.androgames.compass,Tools,TOOLS
+341,sharefiles.sharemusic.shareapps.filetransfer,Tools,TOOLS
+342,com.ovelin.guitartuna,Tools,TOOLS
+343,com.amazon.storm.lightning.client.aosp,Tools,TOOLS
+344,com.gamma.scan,Tools,TOOLS
+345,com.techinnate.android.smsforwarder,Tools,TOOLS
+346,com.suryance.smsforwarder,Tools,TOOLS
+347,com.gawk.smsforwarder,Tools,TOOLS
+348,com.moez.QKSMS.websmith.smsforwarder,Productivity,PRODUCTIVITY
+349,com.zhaocw.woreplyen,Tools,TOOLS
+350,com.mysms.android.mirror,Communication,COMMUNICATION
+351,com.gearandroid.phoneleashfree,Communication,COMMUNICATION
+352,com.microsoft.android.smsorganizer,Communication,COMMUNICATION
+353,com.heavenecom.smartscheduler,Communication,COMMUNICATION
+354,com.frzinapps.smsforward,Tools,TOOLS
+355,com.riteshsahu.SMSBackupRestore,Tools,TOOLS
+356,com.idea.backup.smscontacts,Tools,TOOLS
+357,com.zegoggles.smssync,Tools,TOOLS
+358,com.jerryzigo.smsbackup,Tools,TOOLS
+359,com.gilapps.smsshare2,Productivity,PRODUCTIVITY
+360,com.aomatatech.sms.messages.backup.restore.sharing.app,Tools,TOOLS
+361,com.riteshsahu.SMSBackupRestorePro,Tools,TOOLS
+362,com.mda.recover.deleted.messages,Productivity,PRODUCTIVITY
+363,com.piandro.backupsms,Communication,COMMUNICATION
+364,com.smsbackup.contactsbackuprestore,Tools,TOOLS
+365,com.primol.appbackup,Tools,TOOLS
+366,com.tekxperiastudios.pdfexporter,Productivity,PRODUCTIVITY
+367,com.greenchills.superbackup,Productivity,PRODUCTIVITY
+368,de.webtogo.xtransfer,Tools,TOOLS
+369,net.techet.netanalyzerlite.an,Tools,TOOLS
+370,abdelrahman.wifianalyzerpro,Tools,TOOLS
+371,com.farproc.wifi.analyzer,Tools,TOOLS
+372,com.pzolee.wifiinfo,Tools,TOOLS
+373,com.vrem.wifianalyzer,Tools,TOOLS
+374,com.vrem.wifianalyzer,Tools,TOOLS
+375,com.wifi.signal.wifisignalmeter.wifisignalbooster,Tools,TOOLS
+376,com.netgear.WiFiAnalytics,Tools,TOOLS
+377,com.wifianalyzer.networktools.wifitest,Tools,TOOLS
+378,com.signalmonitoring.wifimonitoring,Tools,TOOLS
+379,com.ddm.iptools,Tools,TOOLS
+380,cz.webprovider.wifianalyzer,Tools,TOOLS
+381,com.wifianalyzer.networktools.networkanalyzer,Tools,TOOLS
+382,com.keuwl.wifi,Tools,TOOLS
+383,com.farproc.wifi.analyzer.classic,Tools,TOOLS
+384,com.wifi.booster.wifi.manager.speedtest.wifianalyzer,Tools,TOOLS
+385,net.techet.netanalyzer.an,Tools,TOOLS
+386,info.lamatricexiste.networksearch,Tools,TOOLS
+387,org.wifi.analyzer.network.boost,Tools,TOOLS
+388,com.hicloud.android.clone,Tools,TOOLS
+389,phone.clone.forall.android.fast.switchphone,Tools,TOOLS
+390,com.dragster.production.switchphone,Tools,TOOLS
+391,phone.clone.transfer.data.innovagic.technologies,Tools,TOOLS
+392,com.copydata.phoneclonetransfer,Productivity,PRODUCTIVITY
+393,com.transferphoneclone.clonephonedata,Productivity,PRODUCTIVITY
+394,phone.cloner.clone.phone.all.data,Tools,TOOLS
+395,com.lenovo.anyshare.cloneit,Tools,TOOLS
+396,com.coloros.backuprestore,Productivity,PRODUCTIVITY
+397,com.qiku.android.clone360,Tools,TOOLS
+398,com.aomatatech.datatransferapp.filesharing,Tools,TOOLS
+399,com.phone.expert.cloning.sender.receiveing,Tools,TOOLS
+400,com.oneplus.backuprestore,Tools,TOOLS
+401,com.sec.android.easyMover,Tools,TOOLS
+402,com.vivo.easyshare,Tools,TOOLS
+403,com.gibatekpro.imeigenerator,Tools,TOOLS
+404,com.bobgearstudio.imei,Tools,TOOLS
+405,snapapp.trackmymobile.findmyphone,Tools,TOOLS
+406,com.edgedevstudio.imei_toolbox,Tools,TOOLS
+407,sim.freeimei.unlock,Communication,COMMUNICATION
+408,org.vndnguyen.imeianalyze,Tools,TOOLS
+409,com.kalesoft.imeiphoneinfo,Tools,TOOLS
+410,octabeans.maheshmanseta.imeiinfo,Tools,TOOLS
+411,com.findmyphone.imeitracker,Tools,TOOLS
+412,com.imsi.imei,Tools,TOOLS
+413,com.son.jawad.imeichecker,Tools,TOOLS
+414,com.imeitwk.chengerpro,Tools,TOOLS
+415,com.technocorp.imeiverification,Productivity,PRODUCTIVITY
+416,com.gibatekpro.imeiinfo,Tools,TOOLS
+417,com.kerwinoyyx.app.IMEI,Tools,TOOLS
+418,com.ilyas.ilyasapps.imeinumber,Tools,TOOLS
+419,com.gerondesign.imei,Tools,TOOLS
+420,marcus.myimei,Tools,TOOLS
+421,com.servtified.imei_unlocker,Tools,TOOLS
+422,com.edydev.imei,Tools,TOOLS
+423,com.imeicommunity.android,Tools,TOOLS
+424,sim.freeimei.unlock.secure,Communication,COMMUNICATION
+425,com.sdcardformatter.wrongpasswordattempt,Tools,TOOLS
+426,com.prodigiousapps.verificarimei,Productivity,PRODUCTIVITY
+427,com.sciker.xposedmodules,Tools,TOOLS
+428,nz.pbomb.xposed.spoofmydevice,Tools,TOOLS
+429,com.xpos.edchecker,Tools,TOOLS
+430,com.michy.wearmessengerx,Tools,TOOLS
+431,com.xorware.network.s2g3g.xposed.switcher,Personalization,PERSONALIZATION
+432,lfprodev.xposed.xstana,Personalization,PERSONALIZATION
+433,eu.chylek.adam.fakewifi,Tools,TOOLS
+434,com.zhihaofans.fake_xposed_installer,Tools,TOOLS
+435,name.mikanoshi.customiuizer,Tools,TOOLS
+436,com.mrchandler.disableprox,Tools,TOOLS
+437,com.jozein.xedgepro,Tools,TOOLS
+438,de.makuser.nexussms,Personalization,PERSONALIZATION
+439,ru.gavrikov.hidemocklocations,Tools,TOOLS
+440,com.jozein.xedge,Tools,TOOLS
+441,com.hamzah.onehandmode,Personalization,PERSONALIZATION
+442,com.wilco375.settingseditor,Tools,TOOLS
+443,com.metris.xposed.bluetoothToolkitFree,Personalization,PERSONALIZATION
+444,com.metris.xposed.bluetoothToolkitFree,Personalization,PERSONALIZATION
